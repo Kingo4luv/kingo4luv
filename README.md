@@ -13,6 +13,6 @@ Talking about personal stuff:
 - 🌱 I’m currently learning blockchain and buiding Dapps
 - 👯 I’m looking to collaborate on building smart contracts
 - 💬 Ask me about backend, frontend, i am ready to help
-- 📫 How to reach me: kinglseyatanang@gmail.com
-- ⚡ My website: [kingsleyatanang.dev/](https://kingsleyatanang.dev)
+- 📫 How to reach me: kingsleyatanang@gmail.com
+- ⚡ My website: [kingsleyatanang.dev](https://kingsleyatanang.dev)
 
