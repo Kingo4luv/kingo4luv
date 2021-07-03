@@ -1,23 +1,18 @@
-### Hi there I am Kingsley Atanang 👋
+### Hi there i am Kingsley Atanang 👋
+
+Successful Software engineer offering 5 years of experience in demanding environments focused on producing cutting - edge systems for the software industry.Well - organized and customer - focused with proven skills in project management and team leadership
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kingo4luv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kingo4luv)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<!--
-**Kingo4luv/kingo4luv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Talking about personal stuff:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building a digital identity wallet
+- 🌱 I’m currently learning blockchain and buiding Dapps
+- 👯 I’m looking to collaborate on building smart contracts
+- 💬 Ask me about backend, frontend, i am ready to help
+- 📫 How to reach me: kinglseyatanang@gmail.com
+- ⚡ My website: [kingsleyatanang.dev/](https://kingsleyatanang.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
