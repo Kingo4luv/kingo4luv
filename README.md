@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kingo4luv)](https://github.com/ryo-ma/github-profile-trophy)
 
 
