@@ -1,6 +1,6 @@
 ### Hi there i am Kingsley Atanang 👋
 
-Successful Software engineer offering 5 years of experience in demanding environments focused on producing cutting - edge systems for the software industry.Well - organized and customer - focused with proven skills in project management and team leadership
+A Successful Software engineer offering 5 years+ of experience in demanding environments focused on producing cutting - edge systems for the software industry.Well - organized and customer - focused with proven skills in project management and team leadership
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kingo4luv&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
@@ -14,5 +14,5 @@ Talking about personal stuff:
 - 👯 I’m looking to collaborate on building smart contracts
 - 💬 Ask me about backend, frontend, i am ready to help
 - 📫 How to reach me: kinglseyatanang@gmail.com
-- ⚡ My website: [kingsleyatanang.dev/](https://kingsleyatanang.dev/)
+- ⚡ My website: [kingsleyatanang.dev/](https://kingsleyatanang.dev)
 
