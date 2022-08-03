@@ -10,7 +10,7 @@ A Successful Software engineer offering 5 years+ of experience in demanding envi
 Talking about personal stuff:
 
 - 🔭 I’m currently working on building a digital identity wallet
-- 🌱 I’m currently learning blockchain and buiding Dapps
+- 🌱 I’m currently learning blockchain and building Dapps
 - 👯 I’m looking to collaborate on building smart contracts
 - 💬 Ask me about backend, frontend, i am ready to help
 - 📫 How to reach me: kingsleyatanang@gmail.com
